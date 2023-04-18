@@ -41,5 +41,5 @@ yarn start
 * Add animations.
 
 ## Developed By
-Shivam Shekhar.  
-shivamshekhar299@gmail.com
+Monica.  
+mec0007monica@gmail.com
